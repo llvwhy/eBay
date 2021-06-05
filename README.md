@@ -20,4 +20,9 @@
 
 #### 4. 文件下载
 
+首先阅读你要下在的版本应用说明， 然后下载对应的版本文件
+下载地址： https://github.com/llvwhy/eBay/releases
+
 ![image](https://user-images.githubusercontent.com/42863493/120889042-f4557000-c62d-11eb-92c3-f1e7623031b5.png)
+
+找到对应的版本后下载`.zip`文件
